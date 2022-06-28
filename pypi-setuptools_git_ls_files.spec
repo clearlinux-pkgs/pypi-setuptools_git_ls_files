@@ -4,7 +4,7 @@
 #
 Name     : pypi-setuptools_git_ls_files
 Version  : 0.1.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/53/53/868cb0beb7841f257c7b2b7745226d4809c2a821d3ce6d281bd7bc305c72/setuptools_git_ls_files-0.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/53/53/868cb0beb7841f257c7b2b7745226d4809c2a821d3ce6d281bd7bc305c72/setuptools_git_ls_files-0.1.2.tar.gz
 Summary  : Use git to list all files, including submodules
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656373552
+export SOURCE_DATE_EPOCH=1656407347
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
