@@ -4,7 +4,7 @@
 #
 Name     : pypi-setuptools_git_ls_files
 Version  : 0.1.2
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/53/53/868cb0beb7841f257c7b2b7745226d4809c2a821d3ce6d281bd7bc305c72/setuptools_git_ls_files-0.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/53/53/868cb0beb7841f257c7b2b7745226d4809c2a821d3ce6d281bd7bc305c72/setuptools_git_ls_files-0.1.2.tar.gz
 Summary  : Use git to list all files, including submodules
